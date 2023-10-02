@@ -1,0 +1,13 @@
+Crea un nuevo proyecto usando el siguiente comando
+
+npm create vite@latest
+
+Ten encuenta que ese comando lo debes realizar en la terminal de tu workspace
+luego de ejecutar el comando debes configurar como quieres que se cree tu proyecto 
+te pedira el package name: package.json
+Luego debes seleccionar tu framework a usar y debes selecciona el framework "VUE" ademas de mas configuraciones que tu puedes seleccionar
+
+
+y en teoria deberia de crearte tu proyecto.
+
+REVISA BIEN EL CODIGO.
