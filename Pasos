@@ -1,5 +1,7 @@
-Crea un nuevo proyecto usando el siguiente comando
+Descarga el archivo zip y descomprimelo en tu ordenador 
+antes de comnzaar debes tener instalado node.js y npm con versiones adecuadas para poder funcionar.
 
+Crea un nuevo proyecto usando el siguiente comando
 npm create vite@latest
 
 Ten encuenta que ese comando lo debes realizar en la terminal de tu workspace
